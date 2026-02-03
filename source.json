@@ -1,0 +1,4 @@
+{
+  "welcome_message": "Hello, {username}!",
+  "cart_items": "You have {count} items in your cart."
+}
