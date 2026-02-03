@@ -1,0 +1,4 @@
+{
+  "welcome_message": "Привет, {username}!",
+  "cart_items": "У вас {items} товаров в корзине."
+}
